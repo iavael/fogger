@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-06-23 17:04+0530\n"
+"POT-Creation-Date: 2014-08-28 20:27+0400\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -266,7 +266,7 @@ msgstr ""
 msgid "Autostart"
 msgstr ""
 
-#: ../fogger_lib/AppWindow.py:100
+#: ../fogger_lib/AppWindow.py:92
 #, python-format
 msgid "%s will be freed."
 msgstr ""
@@ -285,7 +285,7 @@ msgstr ""
 msgid "Replace"
 msgstr ""
 
-#: ../fogger/FoggerWindow.py:205
+#: ../fogger/FoggerWindow.py:203
 #, python-format
 msgid ""
 "The URL %s could not be reached.\n"
